@@ -2,15 +2,39 @@
 
 ## **Details of the Functionality in Major Sections:**
 
-## **Routes.java:** - API endpoint routes.
+### **Routes.java:** - API endpoint routes.
 
-## **CreateRepsponse.java:** - Abstracted RestAssured for further flexibility.
+---
 
-It provides several end points of the API and returns URL.
+Provides several end points of the API and returns URL.
 
-# **Usage of the project**
+### **CreateRepsponse.java:** - RestAssured HTTP method handler.
 
-This project contains several packages to test API and their responses through several http requests like GET, POST, PUT, DELETE, UPDATE. This project contains several packages with number of testcases to test different aspects of API like test cases for Products, brands, user and login.
+---
 
-# **Summary:**
- This project haas been developed using RestAssured and Selenium/Cucumber.
+Flexible HTTP method helper
+
+### **JsonParser.java:** - Jackson ObjectMapper 
+
+---
+
+Automate reading JSON data for request data.
+
+
+### **Util Package:** - Contains helper classes for Selenium/Cucumber.
+
+---
+Driver killer for hanging driver process.
+
+Driver service helper for chrome.
+
+
+### **Note:** 
+
+Built using : https://automationexercise.com/ as test site/api.
+
+Aspects need work/fixing.
+
+## **Summary:**
+
+Project haas been developed using RestAssured and Selenium/Cucumber.
