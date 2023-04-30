@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "email": "test999111@test.com",
+  "password": "test",
+  "title": "Mr",
+  "birth_date": "1",
+  "birth_month": "12",
+  "birth_year": "1996",
+  "firstname": "test",
+  "lastname": "tester",
+  "company": "testCO",
+  "address1": "test st",
+  "address2": "test town",
+  "country": "united test",
+  "zipcode": "1TU TU1",
+  "state": "test",
+  "city": "test city",
+  "mobile_number": "123123"
+}
